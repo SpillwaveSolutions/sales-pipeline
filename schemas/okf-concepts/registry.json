@@ -1,0 +1,111 @@
+{
+  "version": "0.1.0",
+  "plugin": "sales-pipeline",
+  "types": [
+    {
+      "type": "SalesLead",
+      "folder": null,
+      "description": "Named inbound or outbound lead"
+    },
+    {
+      "type": "Opportunity",
+      "folder": null,
+      "description": "Qualified revenue chance"
+    },
+    {
+      "type": "Deal",
+      "folder": null,
+      "description": "Actively negotiated opportunity"
+    },
+    {
+      "type": "Stage",
+      "folder": null,
+      "description": "Pipeline stage definition"
+    },
+    {
+      "type": "NextAction",
+      "folder": null,
+      "description": "Required next step with date"
+    },
+    {
+      "type": "Objection",
+      "folder": null,
+      "description": "Buyer concern"
+    },
+    {
+      "type": "Competitor",
+      "folder": null,
+      "description": "Competing alternative"
+    },
+    {
+      "type": "Champion",
+      "folder": null,
+      "description": "Internal advocate"
+    },
+    {
+      "type": "EconomicBuyer",
+      "folder": null,
+      "description": "Person who can spend"
+    },
+    {
+      "type": "TechnicalBuyer",
+      "folder": null,
+      "description": "Person who evaluates fit"
+    },
+    {
+      "type": "Proposal",
+      "folder": null,
+      "description": "Written offer"
+    },
+    {
+      "type": "Quote",
+      "folder": null,
+      "description": "Priced offer"
+    },
+    {
+      "type": "Contract",
+      "folder": null,
+      "description": "Legal agreement in play"
+    },
+    {
+      "type": "NegotiationNote",
+      "folder": null,
+      "description": "Deal-desk note"
+    },
+    {
+      "type": "WinLossReason",
+      "folder": null,
+      "description": "Why it closed"
+    },
+    {
+      "type": "SalesCampaign",
+      "folder": null,
+      "description": "Outbound or inbound motion"
+    },
+    {
+      "type": "OutreachSequence",
+      "folder": null,
+      "description": "Sequence of touches"
+    },
+    {
+      "type": "Touchpoint",
+      "folder": null,
+      "description": "Single interaction"
+    },
+    {
+      "type": "ForecastEntry",
+      "folder": null,
+      "description": "Period forecast line"
+    },
+    {
+      "type": "PipelineSnapshot",
+      "folder": null,
+      "description": "Point-in-time pipeline view"
+    },
+    {
+      "type": "ReferralSource",
+      "folder": null,
+      "description": "How the lead arrived"
+    }
+  ]
+}

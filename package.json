@@ -1,0 +1,12 @@
+{
+  "name": "sales-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sales Pipeline \u2014 Claude Code / Grok Build / Codex plugin",
+  "scripts": {
+    "test": "python3 tests/test_spl.py",
+    "validate": "python3 scripts/spl_common.py validate --bundle sample-knowledge",
+    "init": "python3 scripts/spl_common.py init-bundle --bundle sample-knowledge --title \"Sales Pipeline\" --catalogs \"sales-leads,opportunities,deals,proposals,quotes,campaigns,touchpoints,objections,forecasts\""
+  },
+  "license": "MIT"
+}

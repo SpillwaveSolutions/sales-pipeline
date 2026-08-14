@@ -1,0 +1,36 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "spl-plugin-marketplace",
+  "description": "Sales Pipeline plugins for Claude Code (Grok Build compatible via Claude plugin zero-config)",
+  "owner": {
+    "name": "Rick Hightower",
+    "url": "https://github.com/RichardHightower"
+  },
+  "plugins": [
+    {
+      "name": "sales-pipeline",
+      "source": "./",
+      "description": "Sales pipeline ContentPack: leads, opportunities, stages, next actions, objections, proposals, and forecast entries.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Rick Hightower"
+      },
+      "homepage": "https://github.com/SpillwaveSolutions/sales-pipeline",
+      "repository": "https://github.com/SpillwaveSolutions/sales-pipeline",
+      "license": "MIT",
+      "keywords": [
+        "sales",
+        "pipeline",
+        "lead",
+        "opportunity",
+        "forecast",
+        "claude-code",
+        "grok-build",
+        "codex",
+        "okf",
+        "content-pack"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
