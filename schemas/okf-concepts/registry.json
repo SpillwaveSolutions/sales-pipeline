@@ -1,110 +1,110 @@
 {
-  "version": "0.1.0",
+  "version": "0.3.0",
   "plugin": "sales-pipeline",
   "types": [
     {
       "type": "SalesLead",
-      "folder": null,
+      "folder": "sales-leads",
       "description": "Named inbound or outbound lead"
     },
     {
       "type": "Opportunity",
-      "folder": null,
+      "folder": "opportunities",
       "description": "Qualified revenue chance"
     },
     {
       "type": "Deal",
-      "folder": null,
+      "folder": "deals",
       "description": "Actively negotiated opportunity"
     },
     {
       "type": "Stage",
-      "folder": null,
+      "folder": "stages",
       "description": "Pipeline stage definition"
     },
     {
       "type": "NextAction",
-      "folder": null,
+      "folder": "next-actions",
       "description": "Required next step with date"
     },
     {
       "type": "Objection",
-      "folder": null,
+      "folder": "objections",
       "description": "Buyer concern"
     },
     {
       "type": "Competitor",
-      "folder": null,
+      "folder": "competitors",
       "description": "Competing alternative"
     },
     {
       "type": "Champion",
-      "folder": null,
+      "folder": "champions",
       "description": "Internal advocate"
     },
     {
       "type": "EconomicBuyer",
-      "folder": null,
+      "folder": "economic-buyers",
       "description": "Person who can spend"
     },
     {
       "type": "TechnicalBuyer",
-      "folder": null,
+      "folder": "technical-buyers",
       "description": "Person who evaluates fit"
     },
     {
       "type": "Proposal",
-      "folder": null,
+      "folder": "proposals",
       "description": "Written offer"
     },
     {
       "type": "Quote",
-      "folder": null,
+      "folder": "quotes",
       "description": "Priced offer"
     },
     {
       "type": "Contract",
-      "folder": null,
+      "folder": "contracts",
       "description": "Legal agreement in play"
     },
     {
       "type": "NegotiationNote",
-      "folder": null,
+      "folder": "negotiation-notes",
       "description": "Deal-desk note"
     },
     {
       "type": "WinLossReason",
-      "folder": null,
+      "folder": "win-loss-reasons",
       "description": "Why it closed"
     },
     {
       "type": "SalesCampaign",
-      "folder": null,
+      "folder": "sales-campaigns",
       "description": "Outbound or inbound motion"
     },
     {
       "type": "OutreachSequence",
-      "folder": null,
+      "folder": "outreach-sequences",
       "description": "Sequence of touches"
     },
     {
       "type": "Touchpoint",
-      "folder": null,
+      "folder": "touchpoints",
       "description": "Single interaction"
     },
     {
       "type": "ForecastEntry",
-      "folder": null,
+      "folder": "forecast-entries",
       "description": "Period forecast line"
     },
     {
       "type": "PipelineSnapshot",
-      "folder": null,
+      "folder": "pipeline-snapshots",
       "description": "Point-in-time pipeline view"
     },
     {
       "type": "ReferralSource",
-      "folder": null,
+      "folder": "referral-sources",
       "description": "How the lead arrived"
     }
   ]

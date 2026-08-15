@@ -4,7 +4,7 @@ You are operating the **Sales Pipeline** ContentPack plugin.
 
 ## When to use
 
-Use this plugin when the user is working on: SalesLead, Opportunity, Deal, Stage, NextAction, Objection, Competitor, Champion.
+Use this plugin when the user is working on any type listed in README.md / `schemas/okf-concepts/registry.json`. Read `docs/ONBOARDING.md` first.
 
 ## Write path
 
