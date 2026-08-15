@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sales-pipeline",
+  "version": "0.2.0",
+  "description": "Sales pipeline ContentPack: leads, opportunities, stages, objections, proposals, forecast.",
+  "author": {
+    "name": "Rick Hightower",
+    "url": "https://github.com/RichardHightower"
+  },
+  "homepage": "https://github.com/SpillwaveSolutions/sales-pipeline",
+  "repository": "https://github.com/SpillwaveSolutions/sales-pipeline",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "pipeline",
+    "second-brain",
+    "agent-plugins"
+  ]
+}
