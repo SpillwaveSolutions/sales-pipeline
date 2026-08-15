@@ -89,7 +89,7 @@ python3 scripts/spl_common.py write \
   --type SalesLead \
   --folder sales-leads \
   --title "Example" \
-  --author "Grok Bot: Sales Pipeline"
+  --author "${SECOND_BRAIN_IDENTITY:?claim an identity first: brain.py whoami --claim}"
 ```
 
 Never invent `rel` values. Never write types owned by another plugin.
