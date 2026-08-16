@@ -11,7 +11,7 @@
       "name": "sales-pipeline",
       "source": "./",
       "description": "Sales pipeline ContentPack: leads, opportunities, stages, next actions, objections, proposals, and forecast entries.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {
         "name": "Rick Hightower"
       },
