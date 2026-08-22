@@ -1,6 +1,6 @@
 {
   "name": "sales-pipeline",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Sales pipeline ContentPack: leads, opportunities, stages, objections, proposals, forecast.",
   "author": {
     "name": "Rick Hightower"
@@ -13,7 +13,9 @@
     "pipeline",
     "second-brain",
     "agent-plugins",
-    "cursor"
+    "cursor",
+    "worklog",
+    "wiki-ticket-sdd"
   ],
   "skills": "skills/",
   "rules": ".cursor/rules/",

@@ -1,6 +1,6 @@
 {
   "name": "sales-pipeline",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Sales pipeline ContentPack: leads, opportunities, stages, next actions, objections, proposals, and forecast entries.",
   "author": {
     "name": "Rick Hightower",
@@ -19,6 +19,8 @@
     "grok-build",
     "codex",
     "okf",
-    "content-pack"
+    "content-pack",
+    "worklog",
+    "wiki-ticket-sdd"
   ]
 }
