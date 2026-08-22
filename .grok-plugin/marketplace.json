@@ -1,13 +1,13 @@
 {
   "name": "spl-plugin-marketplace",
   "description": "Optional native Grok marketplace metadata. Grok Build already loads Claude plugins with zero config.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "plugins": [
     {
       "name": "sales-pipeline",
       "source": ".",
       "description": "Sales pipeline ContentPack: leads, opportunities, stages, next actions, objections, proposals, and forecast entries.",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "compatibility": {
         "claude_plugin": true,
         "zero_config": true
